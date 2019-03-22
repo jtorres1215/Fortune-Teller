@@ -1,0 +1,13 @@
+input {
+padding:5px;    
+font-size:10px;
+}
+
+.box {
+border:5px solid;
+display:flex;
+flex-direction:column;
+}
+div {
+padding:5px;    
+}
